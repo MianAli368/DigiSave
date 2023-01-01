@@ -33,11 +33,12 @@ Google Map.
 
 
 # Target Market
-1) Dart Programming Language
-2) Flutter GUI Toolkit
-3) Firebase Database
-4) Web Scrapping
-5) Google Map
+1) Every user who wants to buy an item with lowest price from
+the store having nearest distance from current position of the
+user.
+2) Every brands who wants to boost their sales by setting
+minimum profit margin.
+3) Every person who have little bit knowledge about technology.
 
 
 # Screen Shots
